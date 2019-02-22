@@ -12,9 +12,12 @@ The data set was crawled from the arXiv and from the Danish National Library. Th
 - asdfasdf
 - asdfasdf
 
-## Research and Usecases
+## Own Research and Usecases
 
-Our own research and experiments with this data sets.
+@phschaer used this data set in two publication on the citation-based retrieval.
+
+- Zeljko Carevic and Philipp Schaer (2014). On the Connection Between Citation-based and Topical Relevance Ranking: Results of a Pretest using iSearch. [PDF](http://ceur-ws.org/Vol-1143/paper5.pdf)
+- Tamara Heck and Philipp Schaer (2012). Performing informetric analysis on information retrieval test collections: Preliminary experiments in the physics domain. [PDF](https://arxiv.org/abs/1306.1743)
 
 ## License Information
 
