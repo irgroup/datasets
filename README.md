@@ -6,4 +6,4 @@ All datasets are located on `/datasets` a volume exclusively for datasets like I
 
 | Dataset  | Location |
 | ------------- | ------------- |
-| [iSearch] | `/datasets/iSearch`|
+| (iSearch) | `/datasets/iSearch`|
