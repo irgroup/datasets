@@ -4,10 +4,10 @@
 
 All datasets are located on `/datasets` a volume exclusively for datasets like IR test collections, document corpora or other forms of data that is used in our research. 
 
-| Dataset  | Creator | Year | Size | Usecase | 
-| ---------| ------- | ---- | ------- | ------------- |
-| [iSearch](/iSearch/README.md) | Aalborg University | 2010 | 50G (zipped) | Integreated search and citation-based retreival |
-| [Washington Post](/WAPost/README.md) | NIST | 2018 | ??G (zipped) | ad-hoc retrieval |
+| Dataset  | Creator | Year | Size | Type | Usecase | 
+| ---------| ------- | ---- | ---- | ---- | ------------- |
+| [iSearch](/iSearch/README.md) | Aalborg University | 2010 | 50G (zipped) | IR test collection | Integreated search and citation-based retreival |
+| [Washington Post](/WAPost/README.md) | NIST | 2018 | ??G (zipped) | IR test collection  | ad-hoc retrieval |
 
 ## Adding new Datasets
 
