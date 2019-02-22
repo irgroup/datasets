@@ -9,13 +9,13 @@ The data set was crawled from the arXiv and from the Danish National Library. Th
 ## Files and Folders
 
 - `archives` The original files from the distributor
-  - `iSearch-direct-citations.tgz`
-  - `iSearchIDs.tgz`
-  - `iSearch-references.tgz`
-  - `iSearch-v1.0_documents-PF-pdf.tgz`
-  - `iSearch-v1.0_documents.tgz`
-  - `iSearch-v1.0_topics+assessments.tgz`
-- asdfasdf
+  - `iSearch-direct-citations.tgz` Direct citations within the dataset 
+  - `iSearchIDs.tgz` Mapping of internal IDs and arXiv IDs / URLs
+  - `iSearch-references.tgz` Extracted reference information
+  - `iSearch-v1.0_documents-PF-pdf.tgz` PDF fulltext for a subset of the documents
+  - `iSearch-v1.0_documents.tgz` Document metadata
+  - `iSearch-v1.0_topics+assessments.tgz` Topics and relevance assessments
+- `scripts` Sample scripts to work with the data
 
 ## Own Research and Usecases
 
