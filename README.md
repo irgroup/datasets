@@ -6,5 +6,5 @@ All datasets are located on `/datasets` a volume exclusively for datasets like I
 
 | Dataset  | Creator | Year | Size | Usecase | 
 | ---------| ------- | ---- | ------- | ------------- |
-| [iSearch](/iSearch/README.md) | 2010 | 50G (zipped) | Integreated search and citation-based retreival |
-| [Washington Post](/WAPost/README.md) | 2018 | ??G (zipped) | ad-hoc retrieval |
+| [iSearch](/iSearch/README.md) | Aalborg University | 2010 | 50G (zipped) | Integreated search and citation-based retreival |
+| [Washington Post](/WAPost/README.md) | NIST | 2018 | ??G (zipped) | ad-hoc retrieval |
