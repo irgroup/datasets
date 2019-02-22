@@ -8,8 +8,13 @@ The data set was crawled from the arXiv and from the Danish National Library. Th
 
 ## Files and Folders
 
-- ''archives' the
-- asdfasdf
+- `archives` The original files from the distributor
+  - `iSearch-direct-citations.tgz`
+  - `iSearchIDs.tgz`
+  - `iSearch-references.tgz`
+  - `iSearch-v1.0_documents-PF-pdf.tgz`
+  - `iSearch-v1.0_documents.tgz`
+  - `iSearch-v1.0_topics+assessments.tgz`
 - asdfasdf
 
 ## Own Research and Usecases
@@ -21,10 +26,11 @@ The data set was crawled from the arXiv and from the Danish National Library. Th
 
 ## License Information
 
-Is there a public license? Is there a license agreement we had to sign? ...
+@phschaer signed a licence agreement, that is no longer available... The dataset is (most likely) free for research but not free to distribute. 
 
 ## Data Source
 
+The dataset was distributed by Birger Larsen and Christina Lioma.
 - http://itlab.dbit.dk/~isearch/
 - http://main.cl-lab.dk/download/isearch/
 
