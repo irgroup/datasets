@@ -1,4 +1,4 @@
-# NAME OF DATASET 
+# iSearch
 
 ## Synopsis
 
@@ -24,5 +24,5 @@ Original data source and data vendor.
 
 ## Publications
 
-- Whong et al. (2017)...
+- Lykke, M., Larsen, B., Lund, H. & Ingwersen, P. (2010). Developing a test collection for the evaluation of integrated search. ECIR, p. 627-630. [PDF](https://link.springer.com/chapter/10.1007/978-3-642-12275-0_63)
 
