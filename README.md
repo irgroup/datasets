@@ -8,3 +8,11 @@ All datasets are located on `/datasets` a volume exclusively for datasets like I
 | ---------| ------- | ---- | ------- | ------------- |
 | [iSearch](/iSearch/README.md) | Aalborg University | 2010 | 50G (zipped) | Integreated search and citation-based retreival |
 | [Washington Post](/WAPost/README.md) | NIST | 2018 | ??G (zipped) | ad-hoc retrieval |
+
+## Adding new Datasets
+
+- Login on `linux2`.
+- Create a new folder for the dataset and copy the `README.template.md` in the new folder. Rename the file to `README.md`
+- Describe the data set along the template. 
+- Copy all files for the dataset to the folder and add all binary files and folder to `.gitignore`.
+- Commit the `README.md` and all the additional files you would like to see on GitHub. 
