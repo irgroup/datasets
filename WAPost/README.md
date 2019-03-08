@@ -38,4 +38,6 @@ https://trec.nist.gov/act_part/tracks2018.html
 
 ## Publications
 
--
+- Alexander Bondarenko, Michael Völske, Alexander Panchenko, Chris Biemann, Benno Stein, and Matthias Hagen. Webis at TREC 2018: Common Core Track. In Ellen M. Voorhees and Angela Ellis, editors, 27th International Text Retrieval Conference (TREC 2018), NIST Special Publication, November 2018. National Institute of Standards and Technology (NIST). [PDF](https://webis.de/downloads/publications/papers/stein_2018za.pdf)
+
+
