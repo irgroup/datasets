@@ -8,6 +8,8 @@ All datasets are located on `/datasets` a volume exclusively for datasets like I
 | ---------| ------- | ---- | ---- | ---- | ------------- |
 | [iSearch](/iSearch/README.md) | Aalborg University | 2010 | 50G (zipped) | IR test collection | Integreated search and citation-based retreival |
 | [Washington Post](/WAPost/README.md) | NIST | 2018 | 1.5G (zipped) | IR test collection  | ad-hoc retrieval |
+| [Tipster](/tipster/README.md) | | 1994 |  | IR test collection  | |
+| [Trec](/trec-disks/README.md) | NIST | 1997 | 434 MB | IR test collection  | |
 
 ## Adding new Datasets
 
