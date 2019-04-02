@@ -14,22 +14,19 @@ Trec Vol. 4
 
 Trec Vol. 5
 - `DTDS`contains the dtd-files for FBIS, LATIMES -files
-- `FBIS` Foreign Broadcast Information Service (1996)
-- `LATIMES` Los Angeles Times (1989-1990)
+- `FBIS` contains files from Foreign Broadcast Information Service (1996)
+- `LATIMES` contains files from Los Angeles Times (1989-1990)
 
 ## Research and Usecases
 
-Our own research and experiments with this data sets.
 
 ## License Information
 
-Is there a public license? Is there a license agreement we had to sign? ...
 
 ## Data Source
 
-Original data source and data vendor.
+https://catalog.ldc.upenn.edu/LDC93T3A
 
 ## Publications
 
-- Whong et al. (2017)...
 
