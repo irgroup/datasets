@@ -2,50 +2,20 @@
 
 ## Synopsis
 
-Short introduction to the data set... 3-4 sentences.
+These Trec-volumes contain only documents and their respective Document-Type-Definition (DTD) files, which are used for TREC purposes.
 
 ## Files and Folders
 
 Trec Vol. 4
-- `CR` asdf
-  - `EFILES` asdf
-  - `HFILES` asdf
-- `DTDS` asdf
-- `FR94` asdf
-  - `1` asdf
-  - `2` asdf
-  - `3` asdf
-  - `4` asdf  
-  - `5` asdf
-  - `6` asdf
-  - `7` asdf
-  - `8` asdf  
-  - `9` asdf
-  - `10` asdf
-  - `11` asdf
-  - `12` asdf
-  - `AUX` asdf
-  - `READCHG.Z` asdf
-  - `READMEFR.Z` asdf
-- `FT` asdf
-  - `FT911` asdf
-  - `FT921` asdf
-  - `FT922` asdf
-  - `FT923` asdf
-  - `FT924` asdf
-  - `FT931` asdf  
-  - `FT932` asdf
-  - `FT933` asdf
-  - `FT934` asdf
-  - `FT941` asdf
-  - `FT942` asdf 
-  - `FT943` asdf
-  - `FT944` asdf
-  - `READFRCG.Z` asdf
-  - `READMEFT.Z` asdf
+- `CR` contains files from Congressional Record of the 103rd Congress (1993)
+- `DTDS` contains the dtd-files for CR, FR, FT -files
+- `FR94` contains folders with files from the Federal Register (1994)
+- `FT` contains folders with files from the Financial Times (1991-1994)
 
 Trec Vol. 5
-
+- `DTDS`contains the dtd-files for FBIS, LATIMES -files
+- `FBIS` Foreign Broadcast Information Service (1996)
+- `LATIMES` Los Angeles Times (1989-1990)
 
 ## Research and Usecases
 
