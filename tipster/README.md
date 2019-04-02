@@ -14,17 +14,16 @@ Tipster Vol. 1 <br>
 - `DTD` contains the dtd-files for AP, DOE, FR, WSJ, ZIFF -files
 - `FR` includes whole issues of the Federal Register (1989)
 - `WSJ` includes copyrighted stories from the Wall Street Journal (1987, 1988, 1989)
-- `ZIFF` includes information from the Computer Select disks for 1989/1990  (Ziff-Davis Publishing)
-
-Tipster Vol. 2<br>
-- `AP` includes copyrighted stories from the AP Newswire (1988)
-- `DTD` contains the dtd-files for AP, FR, WSJ, ZIFF -files
-- `FR` includes whole issues of the Federal Register (1989)
-- `WSJ` includes copyrighted stories from the Wall Street Journal (1990, 1991, 1992)
 - `ZIFF` includes information from the Computer Select disks (1989/1990, Ziff-Davis Publishing)
 
-Tipster Vol. 3<br>
-The third disk contains more information from the Computer Select disks, plus material from the San Jose Mercury News (1991), more AP newswire (1990) and about 250 megabytes of formatted U.S. Patents.
+Tipster Vol. 2 <br>
+- `AP` includes copyrighted stories from the AP Newswire (1988)
+- `DTD` contains the dtd-files for AP, FR, WSJ, ZIFF -files
+- `FR` includes more issues of the Federal Register (1989)
+- `WSJ` includes copyrighted stories from the Wall Street Journal (1990, 1991, 1992)
+- `ZIFF` includes more information from the Computer Select disks (1989/1990, Ziff-Davis Publishing)
+
+Tipster Vol. 3 <br>
 - `AP` includes copyrighted stories from the AP Newswire (1990)
 - `DTD` contains the dtd-files for AP, PATENTS, SJM, ZIFF -files
 - `PATENTS` includes U.S. Patent Documents (1983-1991)
