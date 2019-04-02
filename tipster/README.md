@@ -38,17 +38,13 @@ These disks represent a revision of the first set of disks. There are several fi
 
 ## Research and Usecases
 
-Our own research and experiments with this data sets.
 
 ## License Information
 
-Is there a public license? Is there a license agreement we had to sign? ...
 
 ## Data Source
 
-Original data source and data vendor.
+https://trec.nist.gov/data/qa/T8_QAdata/disks4_5.html
 
 ## Publications
-
-- Whong et al. (2017)...
 
