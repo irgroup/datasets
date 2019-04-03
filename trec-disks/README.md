@@ -1,4 +1,4 @@
-# TREC Corpus 
+# TREC-disks
 
 ## Synopsis
 
