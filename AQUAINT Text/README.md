@@ -11,7 +11,7 @@ The data files contain roughly 375 million words correlating to about 3GB of dat
 - `apw` contains files from the Associated Press Worldstream News Service (years 1998-2000)
 - `nyt` contains files from the New York Times News Service (years 1998-2000)
 - `xie` contains files from the Xinhua News Service (years 1996-2000)
-- `aquaint.dtd` contains the dtd-file
+- `aquaint.dtd`dtd-file
 - `file.tbl`
 
 ## Research and Usecases
