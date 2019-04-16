@@ -16,6 +16,11 @@ The New York Times has established a community website for researchers working o
 
 ## Files and Folders
 
+- `data` this directory contains folders with original xml-files (years 1987-2007)
+- `docs` contains some documents (pdf-files to provide an overview of the corpus)
+- `dtd` contains dtd-files
+- `tools` contains java tools for parsing
+
 ## Research and Usecases
 
 ## License Information
