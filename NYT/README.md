@@ -27,7 +27,7 @@ The New York Times has established a community website for researchers working o
 
 ## Data Source
 
-The author of this dataset is Evan Sandmann:
+The author of this dataset is Evan Sandhaus:
 https://catalog.ldc.upenn.edu/LDC2008T19
 
 ## Publications
