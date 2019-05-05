@@ -6,7 +6,7 @@ We first had to create a shared folder for all the datasets. The folder is confi
 
 ```bash
 sudo addgroup datasets
-sudo adduser pschaer datasets.  # and all other users
+sudo adduser pschaer datasets   # and all other users
 cd /
 sudo mkdir datasets
 chmod ug=rwX,o=rx,a+s datasets  # files created in directory will be in group datasets
