@@ -12,6 +12,7 @@ All datasets are located on `/datasets` a volume exclusively for datasets like I
 | [TREC Disks 4/5](/trec-disks/README.md) | NIST | 1997 | 820MB (zipped) | document corpora  | ad-hoc retrieval |
 | [New York Times](/NYT/README.md) | Evan Sandhaus | 2008 | 1G (zipped) | document corpora | ad-hoc retrieval |
 | [AQUAINT](/AQUAINT/README.md) | David Graff | 2002 | 3G (zipped)| document corpora | ad-hoc retrieval |
+| [GIRT4](/girt4/README.md) | GESIS-IZ | 2006 | 110M (zipped)| IT test collection | ad-hoc retrieval, domain-specific, multilingual |
 
 ## Adding new Datasets
 
