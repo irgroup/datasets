@@ -10,7 +10,10 @@ The GIRT collection consists of scientific documents, which have been taken from
 
 ## Research and Usecases
 
-* Schaer, P. (2013). Der Nutzen informetrischer Analysen und nicht-textueller Dokumentattribute für das Information Retrieval in digitalen Bibliotheken. PhD Thesis, Koblenz. (https://kola.opus.hbz-nrw.de/opus45-kola/frontdoor/deliver/index/docId/739/file/dissertation_schaer.pdf)[PDF] 
+Just two examples:
+
+* Schaer P., Neumann M. (2017) Enriching Existing Test Collections with OXPath. In: Jones G. et al. (eds) Experimental IR Meets Multilinguality, Multimodality, and Interaction. CLEF 2017. Lecture Notes in Computer Science, vol 10456. Springer, Cham. (https://arxiv.org/pdf/1706.06836.pdf)[PDF]
+* Schaer, P. (2013) Der Nutzen informetrischer Analysen und nicht-textueller Dokumentattribute für das Information Retrieval in digitalen Bibliotheken. PhD Thesis, Koblenz. (https://kola.opus.hbz-nrw.de/opus45-kola/frontdoor/deliver/index/docId/739/file/dissertation_schaer.pdf)[PDF] 
 
 ## License Information
 
@@ -23,6 +26,3 @@ The data set is not publicly available from the original vendor (GESIS-IZ). An o
 ## Publications
 
 - http://fiz1.fh-potsdam.de/volltext/isi04/05023.pdf
-
-
-https://web.archive.org/web/20080318145924/http://www.gesis.org/Forschung/Informationstechnologie/GIRT4.htm
