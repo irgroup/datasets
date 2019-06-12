@@ -64,6 +64,7 @@ corpus-2019-01-31/s2-corpus-00.gz
 
 ## Data Source
 
-https://api.semanticscholar.org/corpus/ 
+https://api.semanticscholar.org/corpus/
+Waleed Ammar et al. 2018. Construction of the Literature Graph in Semantic Scholar. NAACL. 
 
 ## Publications
