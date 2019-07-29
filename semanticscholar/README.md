@@ -5,6 +5,10 @@
 This representation of the full Semantic Scholar corpus offers data relating to papers crawled from the web and subjected to a number of filters. There are over 45 million published research papers in Computer Science, Neuroscience, and Biomedical fields provided as json objects, one per line. Papers are grouped in batches and shared as a collection of gzipped files; each file is about 990 MB, and the total collection is about 46 GB.
 A sample file of about 100 records (98 KB) is also provided, as is a copy of the license agreement. The manifest includes a list of the available files.
 
+## ELasticsearch
+
+the folder `./elasticsearch` contains the indexed data files for a local single-node elasticsearch cluster (docker image).  
+
 ## Files and Folders
 
 corpus-2019-01-31/s2-corpus-00.gz
