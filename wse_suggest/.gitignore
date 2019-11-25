@@ -1,0 +1,3 @@
+backup_restore.sh 
+*.sql.gz
+.directory
