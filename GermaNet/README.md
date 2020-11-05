@@ -1,6 +1,6 @@
 # GermaNet 
 
-## Synopsis
+## Description
 
 GermaNet is a lexical-semantic net that relates German nouns, verbs, and adjectives semantically by grouping lexical units that express the same concept into synsets and by defining semantic relations between these synsets. GermaNet has much in common with the English [Wordnet](https://wordnet.princeton.edu/) and can be viewed as an on-line thesaurus or a light-weight ontology.  
 The elements and structure of the data are specified in detail in the [https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-and-computational-linguistics/ressources/lexica/germanet/description/](Description) on the project page.  
