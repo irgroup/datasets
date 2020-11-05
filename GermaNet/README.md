@@ -7,7 +7,11 @@ The elements and structure of the data are specified in detail in the [Descripti
 
 ## Data Structure and Format 
 
-The working copy of GermaNet is stored in a database. It contains all the GermaNet data.[Information on use and datastructure](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-and-computational-linguistics/ressources/lexica/germanet/data-format/database/) is Available. Certain special [Applications](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-and-computational-linguistics/ressources/lexica/germanet/applications-tools/) can be used to modify the data.
+The working copy of GermaNet is stored in a database. It contains all the GermaNet data. [Information on use and datastructure](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-and-computational-linguistics/ressources/lexica/germanet/data-format/database/) is Available. Certain special [Applications](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-and-computational-linguistics/ressources/lexica/germanet/applications-tools/) can be used to modify the data.
+
+
+## How to use
+Description on how to use can be found [in the API](https://germanetpy.readthedocs.io/en/latest/) or, a [better step by step description](https://github.com/Germanet-sfs/germanetTutorials/blob/master/pythonAPI/germanetpy_tutorial.ipynb).
 
 ## Own Research and Usecases
 
