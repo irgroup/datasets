@@ -15,6 +15,7 @@ All datasets are located on `/datasets` a volume exclusively for datasets like I
 | [New York Times](/NYT/README.md) | Evan Sandhaus | 2008 | 1G (zipped) | document corpora | ad-hoc retrieval |
 | [AQUAINT](/AQUAINT/README.md) | David Graff | 2002 | 3G (zipped)| document corpora | ad-hoc retrieval |
 | [GIRT4](/girt4/README.md) | GESIS-IZ | 2006 | 110M (zipped)| IT test collection | ad-hoc retrieval, domain-specific, multilingual |
+| [TripClick](/TripClick/README.md) | Navid Rekab-saz, Oleg Lesota, Markus Schedl, Jon Brassey, Carsten Eickhoff | 2021 | 32.7G (zipped)| Click log dataset | ad-hoc retrieval, deep learning models |
 
 ## Adding new Datasets
 
