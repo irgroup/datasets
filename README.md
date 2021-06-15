@@ -10,6 +10,7 @@ All datasets are located on `/datasets` a volume exclusively for datasets like I
 | [semanticscholar](/semanticscholar/README.md) | Waleed Ammar | 2019 | 46G (zipped)| document corpora | ad-hoc retrieval|
 | [iSearch](/iSearch/README.md) | Aalborg University | 2010 | 50G (zipped) | IR test collection | Integreated search and citation-based retrieval |
 | [Washington Post](/WAPost/README.md) | NIST | 2018 | 1.5G (zipped) | IR test collection  | ad-hoc retrieval |
+| [Washington Post (v4)](/WAPostv4/README.md) | NIST | 2021 | 2.4G (zipped) | IR test collection  | ad-hoc retrieval |
 | [Tipster 1/2/3](/tipster/README.md) | NIST | 1994 | 1.3G (zipped) | IR test collection  | ad-hoc retrieval |
 | [TREC Disks 4/5](/trec-disks/README.md) | NIST | 1997 | 820MB (zipped) | document corpora  | ad-hoc retrieval |
 | [New York Times](/NYT/README.md) | Evan Sandhaus | 2008 | 1G (zipped) | document corpora | ad-hoc retrieval |
