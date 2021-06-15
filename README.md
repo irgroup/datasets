@@ -17,6 +17,8 @@ All datasets are located on `/datasets` a volume exclusively for datasets like I
 | [GIRT4](/girt4/README.md) | GESIS-IZ | 2006 | 110M (zipped)| IT test collection | ad-hoc retrieval, domain-specific, multilingual |
 | [TripClick](/TripClick/README.md) | Navid Rekab-saz, Oleg Lesota, Markus Schedl, Jon Brassey, Carsten Eickhoff | 2021 | 32.7G (zipped)| Click log dataset | ad-hoc retrieval, deep learning models |
 | [Yahoo-L18](/Yahoo-L18/README.md) | Yahoo! Research | 2009/10 | 1.3G (zipped)| Click log dataset | ad-hoc retrieval, session analysis |
+| [Yandex - Personalized Web Search Challenge](/Yandex-PersonalizedWebSearchChallenge/README.md) | Eugene Kharitonov, Pavel Serdyukov | 2014 | 5.9G (zipped)| Click log dataset | ad-hoc retrieval, session analysis |
+| [TREC-OpenSearch](/TREC-OpenSearch/README.md) | TREC OpenSearch Organizers | 2016/17 | 600M (zipped)| Click log dataset | ad-hoc retrieval, session analysis |
 
 ## Adding new Datasets
 
