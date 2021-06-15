@@ -16,6 +16,7 @@ All datasets are located on `/datasets` a volume exclusively for datasets like I
 | [AQUAINT](/AQUAINT/README.md) | David Graff | 2002 | 3G (zipped)| document corpora | ad-hoc retrieval |
 | [GIRT4](/girt4/README.md) | GESIS-IZ | 2006 | 110M (zipped)| IT test collection | ad-hoc retrieval, domain-specific, multilingual |
 | [TripClick](/TripClick/README.md) | Navid Rekab-saz, Oleg Lesota, Markus Schedl, Jon Brassey, Carsten Eickhoff | 2021 | 32.7G (zipped)| Click log dataset | ad-hoc retrieval, deep learning models |
+| [Yahoo-L18](/Yahoo-L18/README.md) | Yahoo! Research | 2009/10 | 1.3G (zipped)| Click log dataset | ad-hoc retrieval, session analysis |
 
 ## Adding new Datasets
 
